@@ -30,6 +30,9 @@ The part of this program calculating HalfSipHash is created with reference to [t
 ## License
 This program is released under the [GNU Affero General Public License v3](https://www.gnu.org/licenses/agpl-3.0.html).
 
+## Acknowledgements
+This work is in part supported by NICT in Japan (Contract No. 224).
+
 ## Reference
 1. Y. Yoshinaka, J. Takemasa, Y. Koizumi, and T. Hasegawa, “Feasibility of Network-layer Anonymity Protocols at Terabit Speeds using a Programmable Switch,” to appear in Proceedings of IEEE International Conference on Network Softwarization 2022 (NetSoft 22), 2022. 
 2. C. Chen and A. Perrig, “PHI: Path-hidden lightweight anonymity protocol at network layer,” Proceedings on Privacy Enhancing Technologies, vol. 2017, no. 1, pp. 100–117, 2016. 
